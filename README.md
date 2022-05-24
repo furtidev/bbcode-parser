@@ -5,3 +5,6 @@ BBCode Parser written in Rust using the `fancy_regex` module.
 ```console
 $ cargo run
 ```
+
+## Screenshots
+![snapshot](snap.png)
